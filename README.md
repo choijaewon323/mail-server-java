@@ -2,7 +2,7 @@
 
 ### 메일 전송 방법
 - method : POST
-- URL : http://15.164.232.10:8080/mailserver
+- URL : http://13.125.146.225:8080/mailserver
 - body : JSON
 ```
 // email : String
