@@ -1,8 +1,8 @@
-# MailServer-Java
+# mail-server-java
 
 ### 메일 전송 방법
 - method : POST
-- URL : http://13.125.146.225:8080/mailserver
+- URL : /mailserver
 - body : JSON
 ```
 // email : String
